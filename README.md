@@ -11,7 +11,7 @@ three types of notes = 3 folders? weird bc working mem will exist outside the sy
 
 I will start with a folder that acts as a more haphazard note-taking space. Not quite a scratchpad, but a place to store ideas. For example if I am reading a book about AI Engineering and I find a section on self-supervised learning particularly interesting, I may take some time to cite what I am reading, and capture some of my own thoughts and understanding from what I am reading alongside this. This is NOT to be confused with quickly capturing ideas such as during a work meeting, during a lecture, or even while reading (if you don't want to interrupt your reading process).
 
-	 "Fleeting notes are for capturing ideas quickly while you are busy doing something else ( . . . ) That might even apply to reading, if you want to to focus on a text without interrupting your reading flow. Then you might want to just underline sentences or write short comments in the margins." (Smart Notes, c6p41)
+> "Fleeting notes are for capturing ideas quickly while you are busy doing something else ( . . . ) That might even apply to reading, if you want to to focus on a text without interrupting your reading flow. Then you might want to just underline sentences or write short comments in the margins." (Smart Notes, c6p41)
 
 A separate folder for organizing the ideas in a more meaningful way (go through the scratchpad, and elaborate)
 

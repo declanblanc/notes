@@ -34,16 +34,9 @@
               "icon": "lucide-file",
               "title": "Working Memory"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "22b7a425c3add925",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "651b4fe8e9d8eec7",
+            "id": "6fc7ec967540513c",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -109,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d9b7147c1273c036",
@@ -125,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Working Memory.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Working Memory"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -144,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Working Memory.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Working Memory"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -173,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Working Memory.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Working Memory"
+              "title": "Outline of README"
             }
           }
         ]
@@ -199,9 +193,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "41a3c26e2906b3fc",
+  "active": "f66db046cae7f83b",
   "lastOpenFiles": [
+    "Working Memory.md",
+    "README.md",
     "Welcome.md",
-    "Working Memory.md"
+    "create a link.md"
   ]
 }

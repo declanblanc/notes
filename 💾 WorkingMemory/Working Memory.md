@@ -2,6 +2,8 @@
 > 
 > À la Ahrens' "fleeting notes"`
 
+zoxide terminal thing
+
 Might turn working memory into a folder, and within that folder it have categories like "to learn". "project ideas", etc. Only downside I could see with this approach would be [complexity spirit demon](https://grugbrain.dev/) . If taking this approach, would definitely still need a "general"
 
 ChatGPT interface that organizes related LLM conversations based on context.

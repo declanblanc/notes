@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🧠 Knowledge/Dev Env/tmux/tmux.md",
+                "file": "🧠 Knowledge/Dev Env/nvim/colors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tmux"
+              "title": "colors"
             }
           }
         ],
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d9b7147c1273c036",
@@ -199,8 +200,10 @@
   },
   "active": "41b5de0410d0ab6f",
   "lastOpenFiles": [
-    "🧠 Knowledge/Dev Env/nvim/nvim.md",
+    "Pasted image 20250706073447.png",
     "🧠 Knowledge/Dev Env/tmux/tmux.md",
+    "🧠 Knowledge/Dev Env/nvim/colors.md",
+    "🧠 Knowledge/Dev Env/nvim/nvim.md",
     "🧠 Knowledge/Dev Env/tmux",
     "🧠 Knowledge/Dev Env/nvim/telescope file browser.md",
     "🧠 Knowledge/Python/!Python.md",

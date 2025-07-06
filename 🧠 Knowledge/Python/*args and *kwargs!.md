@@ -1,4 +1,5 @@
-[Python](Python.md)
+#Python
+[!Python](!Python.md)
 
 I'm learning a lot of Python thanks to my work project and though I'd seen these quirky function parameters around before I had never needed to pay them all too much mind. My coursework in school didn't include a Python course thanks to me testing out of taking CS100 at NJIT so my Python knowledge is minimal *at best*. This internship has been the best way to learn, trial by fire :)
 

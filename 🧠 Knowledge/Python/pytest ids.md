@@ -1,4 +1,4 @@
-[Python](Python.md)
+[!Python](!Python.md)
 
 There's about a bajillion different ways to write Python tests but one I've been using quite a bit is ✨parametrized testing✨ which allows you to basically list all of tests you'd like to run before the testing function. 
 

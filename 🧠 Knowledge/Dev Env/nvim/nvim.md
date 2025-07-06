@@ -1,6 +1,9 @@
-I'm really interested in having a nice developer environment. I've always enjoyed making my computer feel like my own person space. 
 
-Starting my neovim from scratch so I can hopefully learn more as I go instead. 
+- [ ] Fix color scheme - ugly blue bars for no reason :(
+- [ ] What was that thing that showed what my kb shortcuts do 
+
+I'm restarting my neovim config from scratch in order to learn more as I go instead of diving into copy-pasting from tutorial land. 
+
 nvim looks in the .config/nvim directory for its config.
 
 In this directory I'm creating a lua project where the "root" of the project is `.config/nvim/init.lua` 
@@ -97,5 +100,13 @@ It's a bit weird (and still not quite right) so I want to carefully walk through
 `lua/plugins/monokai.lua` returns a tuple that fits the [Plugin Spec](https://lazy.folke.io/spec) descrbied by neovim. This documentation page for plugin specs is very unclear to me but I think I've been able to infer some of what it's saying. 
 "Spec Source"
 
-this is too much for me atm, oy vey
+
+Okay what I really need at the moment is a way to navigate files because at the moment I keep quitting out of nvim, changing to a new file and reopening. Yuck. I will start with telescope and then idk what the file thing I had before was called but probably that.
+
+I've just installed treesitter and telescope. 
+What are these?
+
+> 🚨
+> Remember that installing a plugin by giving it a lua file in the plugins dir doesn't initialize it! The require('plugin').setup still has to be added to main config
+
 

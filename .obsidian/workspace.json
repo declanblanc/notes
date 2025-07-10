@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "3b3db7f81abcccd3",
+        "id": "af411a912cdcd77b",
         "type": "tabs",
         "children": [
           {
-            "id": "b299c7eef5dae562",
+            "id": "dded4389103d67d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🧠 Knowledge/Dev Env/nvim/nvim.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "nvim"
-            }
-          },
-          {
-            "id": "7595101646c61199",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🧠 Knowledge/Dev Env/nvim/nvim.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "nvim"
-            }
-          },
-          {
-            "id": "41b5de0410d0ab6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🧠 Knowledge/Dev Env/nvim/colors.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "colors"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d9b7147c1273c036",
@@ -198,12 +164,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "41b5de0410d0ab6f",
+  "active": "dded4389103d67d5",
   "lastOpenFiles": [
-    "Pasted image 20250706073447.png",
-    "🧠 Knowledge/Dev Env/tmux/tmux.md",
     "🧠 Knowledge/Dev Env/nvim/colors.md",
     "🧠 Knowledge/Dev Env/nvim/nvim.md",
+    "misc.",
+    "README.md",
+    "misc./images",
+    "misc./images/Pasted image 20250706073447.png",
+    "💾 WorkingMemory/home server.md",
+    "🧠 Knowledge/Dev Env/tmux/tmux.md",
     "🧠 Knowledge/Dev Env/tmux",
     "🧠 Knowledge/Dev Env/nvim/telescope file browser.md",
     "🧠 Knowledge/Python/!Python.md",
@@ -211,7 +181,6 @@
     "🧠 Knowledge/Python/pytest ids.md",
     "🧠 Knowledge/Python",
     "🧠 Knowledge/Dev Env/init.md",
-    "README.md",
     "init.md",
     "🧠 Knowledge/Artificial Intelligence.md",
     "🧠 Knowledge/Dev Env/nvim",

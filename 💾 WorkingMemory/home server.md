@@ -1,0 +1,2 @@
+I'd like to be able to self host a storage server, maybe have it do some other stuff too. Not sure, i don't know anything about that sort of thing. 
+I would need/want it to be able to replace something like iCloud or Google Drive on my laptop. That is to say, I'd want it to be able to live in my file explorer / Finder just like iCloud and gDrive do. Should be do-able, right?

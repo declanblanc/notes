@@ -100,9 +100,6 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          }
-        ]
-            }
           },
           {
             "id": "1466e94382e83896",
@@ -278,6 +275,10 @@
   },
   "active": "0a4eebc354505b4e",
   "lastOpenFiles": [
+    "💾 WorkingMemory/home server.md",
+    "misc./images/Pasted image 20250706073447.png",
+    "misc./images",
+    "misc.",
     "Zendesk API.md",
     "private/Work/Learning FAQ.md",
     "private/Journal/07.09.25.md",
@@ -307,7 +308,6 @@
     "🧠 Knowledge/*args and *kwargs!.md",
     "💾 WorkingMemory/Dump.md",
     "💾 WorkingMemory/Working Memory.md",
-    "💾 WorkingMemory/To Learn.md",
-    "💾 WorkingMemory"
+    "💾 WorkingMemory/To Learn.md"
   ]
 }

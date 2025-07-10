@@ -119,14 +119,10 @@
             "id": "e417673cefb3bf2f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/Work/Learning FAQ.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Learning FAQ"
+              "title": "New tab"
             }
           }
         ],
@@ -277,8 +273,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e417673cefb3bf2f",
+  "active": "0a4eebc354505b4e",
   "lastOpenFiles": [
+    "Zendesk API.md",
+    "private/Work/Learning FAQ.md",
+    "private/Journal/07.09.25.md",
     "🧠 Knowledge/Python/pytest ids.md",
     "🧠 Knowledge/Python/*args and *kwargs!.md",
     "🧠 Knowledge/Python/!Python.md",
@@ -293,7 +292,6 @@
     "🧠 Knowledge/Artificial Intelligence.md",
     "Pasted image 20250706073447.png",
     "private/Journal/07.07.25.md",
-    "private/Work/Learning FAQ.md",
     "private",
     "private/Work",
     "README.md",

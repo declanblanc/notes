@@ -119,10 +119,14 @@
             "id": "e417673cefb3bf2f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "💾 WorkingMemory/Readable Code?.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Readable Code?"
             }
           }
         ],
@@ -273,8 +277,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a4eebc354505b4e",
+  "active": "e417673cefb3bf2f",
   "lastOpenFiles": [
+    "💾 WorkingMemory/Readable Code?.md",
     "💾 WorkingMemory/home server.md",
     "misc./images/Pasted image 20250706073447.png",
     "misc./images",
